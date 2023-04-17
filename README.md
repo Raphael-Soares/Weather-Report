@@ -1,4 +1,4 @@
-## Weather Report
+# Weather Report
 
 Weather Report is a weather app built with React that uses geolocation to provide the current weather conditions of the user's location.
 Installation
@@ -7,13 +7,13 @@ Installation
    2.  Install dependencies: npm install
    3.  Start the app: npm start
 
-# Technologies Used
+## Technologies Used
 
    -  React
    -  Vite
    -  SASS
 
-# Features
+## Features
 
  -    Automatically detects user's location
   -  Displays current weather conditions, including temperature, description, and icon
